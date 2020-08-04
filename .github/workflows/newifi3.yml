@@ -1,4 +1,4 @@
-name: newifi3 OpenWrt
+name: newifi3 OpenWrt 20200804
 
 on:
   release:
